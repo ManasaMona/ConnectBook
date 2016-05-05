@@ -1,0 +1,1 @@
+This is a social networking site developed through PHP
